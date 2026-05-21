@@ -31,7 +31,7 @@
 ## Why I Built This
 
 
- The main inspiration for creating this project is the "free software movement". [Richard Stallman](https://stallman.org/) declared that software should be free — not free as in price, but free as in freedom. Free to run, study, modify, and share. That declaration became the GNU Project, the GPL license, and the philosophical foundation that the Linux kernel was eventually built on.
+ The main inspiration for creating this project is the "free software movement". [Richard Stallman](https://stallman.org/) declared that software should be free — not free as in price, but free as in freedom. Free to run, study, modify, and share. 
 
 The internet today runs almost entirely on the output of that movement. Linux, Git, OpenSSL, Python, GCC — tools maintained largely by volunteers or small underfunded teams with no real financial model behind them.
 
