@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHd2MXN4bHhvcTkwdXpsZ21rMnRudHJtNHpuN2RzZ29rZzd1MWJ4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bQL3YuiKKAXBwewvZ1/giphy.gif" alt="FOSS Token Logo" width="140" style="border-radius: 50%;" />
+<img src="./foss-logo.png" alt="FOSS Token Logo" width="140" style="border-radius: 50%;" />
 
 <br/>
 
@@ -19,7 +19,7 @@
 <br/>
 
 <img
-  src="./Thumbnail.gif"
+  src="(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHd2MXN4bHhvcTkwdXpsZ21rMnRudHJtNHpuN2RzZ29rZzd1MWJ4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bQL3YuiKKAXBwewvZ1/giphy.gif)"
   alt="FOSS token preview"
   style="width: 100%; max-width: 1000px; height: auto; border-radius: 12px;"
 />
