@@ -6,11 +6,18 @@
 
 # $FOSS — Free Open Source Soft
 
-**A Solana SPL token I built, deployed on mainnet, listed on a DEX, and documented end-to-end.**
+**A Solana SPL token built by [Lingadevaru HP](https://lingadevaru.in) ($FOSS) — live on mainnet, listed on Orca Whirlpool DEX.**
 
-<br/>
+> FOSS Coin is a community-created cryptocurrency token built to support and promote Free and Open Source Software. Trade FOSS on [Orca DEX](https://www.orca.so/pools/3Ub4ojhVSiMZtmrS8bHSEiMo9oqzauTyYtd3HjFbZnE2) or hold to support the FOSS movement.
 
 [![Solana](https://img.shields.io/badge/Solana-Mainnet-9945FF?style=for-the-badge&logo=solana&logoColor=white)](https://explorer.solana.com/address/64AcKtFgExrtJWPJVr6U4iQrJ1VpiUvDHvRtdMHAcoin)
+[![Live Since](https://img.shields.io/badge/Live%20Since-July%202025-brightgreen?style=for-the-badge)](https://explorer.solana.com/tx/VQT5gJrktGkJNuSChKwnfQNeni4ULDLfgHV4bfspBTsZj44v6Wxqc6nGCZze7Mg66atQEmzuVf5MgyUBC9iGroN)
+[![Supply](https://img.shields.io/badge/Supply-1B%20Fixed-blue?style=for-the-badge)](https://explorer.solana.com/address/64AcKtFgExrtJWPJVr6U4iQrJ1VpiUvDHvRtdMHAcoin)
+[![Mint Authority](https://img.shields.io/badge/Mint%20Authority-Revoked-red?style=for-the-badge)](https://explorer.solana.com/address/64AcKtFgExrtJWPJVr6U4iQrJ1VpiUvDHvRtdMHAcoin)
+[![DEX](https://img.shields.io/badge/DEX-Orca%20Whirlpool-00C2CB?style=for-the-badge)](https://www.orca.so/pools/3Ub4ojhVSiMZtmrS8bHSEiMo9oqzauTyYtd3HjFbZnE2)
+
+**Keywords:** `FOSS token` `Solana SPL token` `crypto for open source` `free software token` `FOSS coin` `Solana token` `blockchain FOSS` `Orca DEX` `lingadevaru` `thoshan`
+
 [![Live Since](https://img.shields.io/badge/Live%20Since-July%202025-brightgreen?style=for-the-badge)](https://explorer.solana.com/tx/VQT5gJrktGkJNuSChKwnfQNeni4ULDLfgHV4bfspBTsZj44v6Wxqc6nGCZze7Mg66atQEmzuVf5MgyUBC9iGroN)
 [![Supply](https://img.shields.io/badge/Supply-1B%20Fixed-blue?style=for-the-badge)](https://explorer.solana.com/address/64AcKtFgExrtJWPJVr6U4iQrJ1VpiUvDHvRtdMHAcoin)
 [![Mint Authority](https://img.shields.io/badge/Mint%20Authority-Revoked-red?style=for-the-badge)](https://explorer.solana.com/address/64AcKtFgExrtJWPJVr6U4iQrJ1VpiUvDHvRtdMHAcoin)
